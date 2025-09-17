@@ -1,0 +1,154 @@
+[2025-09-17 21:45:31] INFO: Client started
+[2025-09-17 21:45:34] INFO: Session started for BMW_iX_xDrive50, ID: 57372288-ee50-4924-b082-278c6ecec2b5
+[2025-09-17 21:45:34] INFO: Row 1: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 1: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 1: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 2: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 2: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 2: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 3: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 3: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 3: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 4: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 4: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 4: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 5: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 5: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 5: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 6: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 6: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 6: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 7: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 7: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 7: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 8: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 8: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 8: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 9: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 9: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 9: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 10: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 10: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 10: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 11: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 11: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 11: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 12: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 12: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 12: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 13: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 13: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 13: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 14: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 14: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 14: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 15: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 15: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 15: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 16: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 16: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 16: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 17: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 17: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 17: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 18: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 18: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 18: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 19: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 19: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 19: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 20: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 20: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 20: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 21: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 21: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 21: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 22: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 22: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 22: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 23: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 23: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 23: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 24: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 24: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 24: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 25: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 25: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 25: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 26: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 26: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 26: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 27: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 27: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 27: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 28: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 28: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 28: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 29: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 29: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 29: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 30: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 30: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 30: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 31: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 31: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 31: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 32: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 32: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 32: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 33: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 33: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 33: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 34: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 34: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 34: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 35: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 35: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 35: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 36: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 36: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 36: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 37: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 37: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 37: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 38: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 38: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 38: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 39: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 39: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 39: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 40: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 40: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 40: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 41: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 41: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 41: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 42: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 42: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 42: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 43: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 43: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 43: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 44: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 44: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 44: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 45: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 45: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 45: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 46: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 46: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 46: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 47: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 47: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 47: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 48: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 48: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 48: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 49: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 49: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 49: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Row 50: Parsed into 16 values
+[2025-09-17 21:45:34] ERROR: Row 50: Insufficient values. Expected 18, got 16
+[2025-09-17 21:45:34] ERROR: Row 50: Failed to parse CSV line
+[2025-09-17 21:45:34] INFO: Transfer completed for BMW_iX_xDrive50: 0 success, 50 errors
+[2025-09-17 21:45:34] INFO: Session ended for BMW_iX_xDrive50: Session ended successfully. Processed 0 samples

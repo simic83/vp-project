@@ -1,0 +1,13 @@
+C:\Users\slavi\source\repos\vp-project\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\slavi\source\repos\vp-project\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\slavi\source\repos\vp-project\Common\bin\Debug\Common.dll
+C:\Users\slavi\source\repos\vp-project\Common\bin\Debug\Common.pdb
+C:\Users\slavi\source\repos\vp-project\Common\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\slavi\source\repos\vp-project\Common\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\slavi\source\repos\vp-project\Common\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\slavi\source\repos\vp-project\Common\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\slavi\source\repos\vp-project\Common\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\slavi\source\repos\vp-project\Common\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\slavi\source\repos\vp-project\Common\obj\Debug\Common.csproj.Up2Date
+C:\Users\slavi\source\repos\vp-project\Common\obj\Debug\Common.dll
+C:\Users\slavi\source\repos\vp-project\Common\obj\Debug\Common.pdb

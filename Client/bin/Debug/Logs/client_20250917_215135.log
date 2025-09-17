@@ -1,0 +1,54 @@
+[2025-09-17 21:51:35] INFO: Client started
+[2025-09-17 21:51:38] INFO: Session started for BMW_iX_xDrive50, ID: 9d141448-512b-4c7c-b972-632f7da29f78
+[2025-09-17 21:51:38] ERROR: Row 1: Invalid timestamp
+[2025-09-17 21:51:38] ERROR: Row 2: Invalid timestamp
+[2025-09-17 21:51:38] ERROR: Row 3: Invalid timestamp
+[2025-09-17 21:51:38] ERROR: Row 4: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 5: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 6: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 7: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 8: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 9: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 10: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 11: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 12: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 13: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 14: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 15: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 16: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 17: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 18: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 19: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 20: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 21: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 22: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 23: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 24: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 25: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 26: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 27: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 28: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 29: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 30: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 31: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 32: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 33: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 34: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 35: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 36: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 37: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 38: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 39: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 40: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 41: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 42: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 43: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 44: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 45: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 46: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 47: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 48: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 49: Invalid timestamp
+[2025-09-17 21:51:39] ERROR: Row 50: Invalid timestamp
+[2025-09-17 21:51:39] INFO: Transfer completed for BMW_iX_xDrive50: 0 success, 50 errors
+[2025-09-17 21:51:39] INFO: Session ended for BMW_iX_xDrive50: Session ended successfully. Processed 0 samples

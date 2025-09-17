@@ -1,0 +1,14 @@
+[2025-09-17 22:09:12] INFO: Client started
+[2025-09-17 22:09:16] INFO: Session started for Ford_Mustang, ID: abaf6aa9-c599-4326-9370-caa6b614e4c2
+[2025-09-17 22:09:17] ERROR: Row 15: Invalid voltage values (InvalidVoltage)
+[2025-09-17 22:09:17] ERROR: Row 22: Invalid voltage values (InvalidVoltage)
+[2025-09-17 22:09:17] ERROR: Row 23: Invalid voltage values (InvalidVoltage)
+[2025-09-17 22:09:17] ERROR: Row 44: Invalid timestamp (InvalidTimestamp)
+[2025-09-17 22:09:17] ERROR: Row 45: Invalid timestamp (InvalidTimestamp)
+[2025-09-17 22:09:17] ERROR: Row 46: Invalid timestamp (InvalidTimestamp)
+[2025-09-17 22:09:17] ERROR: Row 47: Invalid timestamp (InvalidTimestamp)
+[2025-09-17 22:09:17] ERROR: Row 48: Invalid timestamp (InvalidTimestamp)
+[2025-09-17 22:09:17] ERROR: Row 49: Invalid timestamp (InvalidTimestamp)
+[2025-09-17 22:09:17] ERROR: Row 50: Invalid timestamp (InvalidTimestamp)
+[2025-09-17 22:09:17] INFO: Transfer completed for Ford_Mustang: 40 success, 10 errors
+[2025-09-17 22:09:17] INFO: Session ended for Ford_Mustang: Session ended successfully. Processed 40 samples
