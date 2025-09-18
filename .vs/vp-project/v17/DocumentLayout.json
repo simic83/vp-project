@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2527BDD9-78B2-4B61-B11E-EB57007272D3}|Client\\Client.csproj|c:\\users\\slavi\\onedrive\\desktop\\vp-project\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2527BDD9-78B2-4B61-B11E-EB57007272D3}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAA4B5DF-F730-405B-BDBF-CEF1A2405D5C}|Service\\Service.csproj|c:\\users\\slavi\\onedrive\\desktop\\vp-project\\service\\chargingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAA4B5DF-F730-405B-BDBF-CEF1A2405D5C}|Service\\Service.csproj|solutionrelative:service\\chargingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChargingService.cs",
-              "DocumentMoniker": "C:\\Users\\slavi\\OneDrive\\Desktop\\vp-project\\Service\\ChargingService.cs",
-              "RelativeDocumentMoniker": "Service\\ChargingService.cs",
-              "ToolTip": "C:\\Users\\slavi\\OneDrive\\Desktop\\vp-project\\Service\\ChargingService.cs",
-              "RelativeToolTip": "Service\\ChargingService.cs",
-              "ViewState": "AgIAAG8BAAAAAAAAAAD4v4cBAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T12:04:49.075Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,7 +28,7 @@
               "RelativeDocumentMoniker": "Client\\Program.cs",
               "ToolTip": "C:\\Users\\slavi\\OneDrive\\Desktop\\vp-project\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAAIABAAAAAAAAAAAqwJ8BAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJADAAAAAAAAAAAwwKEDAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T12:02:21.195Z",
               "EditorCaption": ""

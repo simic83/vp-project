@@ -1,0 +1,9 @@
+[2025-09-18 14:36:42] INFO: Client started
+[2025-09-18 14:36:53] INFO: Session started for BMW_iX_xDrive50, ID: db199428-0e42-4bcf-b790-59f3a9a9cc72
+[2025-09-18 14:36:55] ERROR: Row 72: Invalid frequency values
+[2025-09-18 14:36:55] ERROR: Row 73: Invalid frequency values
+[2025-09-18 14:36:55] ERROR: Row 74: Invalid frequency values
+[2025-09-18 14:36:55] ERROR: Row 75: Invalid frequency values
+[2025-09-18 14:36:55] INFO: Transfer completed for BMW_iX_xDrive50: 71 success, 4 errors
+[2025-09-18 14:36:56] INFO: Session ended for BMW_iX_xDrive50: Session ended successfully. Processed 71 samples
+[2025-09-18 14:37:14] INFO: Client stopped

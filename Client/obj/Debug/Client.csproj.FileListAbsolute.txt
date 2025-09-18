@@ -19,3 +19,4 @@ C:\Users\slavi\OneDrive\Desktop\vp-project\Client\obj\Debug\Client.csproj.CoreCo
 C:\Users\slavi\OneDrive\Desktop\vp-project\Client\obj\Debug\Client.csproj.Up2Date
 C:\Users\slavi\OneDrive\Desktop\vp-project\Client\obj\Debug\Client.exe
 C:\Users\slavi\OneDrive\Desktop\vp-project\Client\obj\Debug\Client.pdb
+C:\Users\slavi\OneDrive\Desktop\vp-project\Client\obj\Debug\Client.exe.config
