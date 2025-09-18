@@ -30,3 +30,4 @@ C:\Users\slavi\OneDrive\Desktop\vp-project\Service\obj\Debug\Service.csproj.Core
 C:\Users\slavi\OneDrive\Desktop\vp-project\Service\obj\Debug\Service.csproj.Up2Date
 C:\Users\slavi\OneDrive\Desktop\vp-project\Service\obj\Debug\Service.exe
 C:\Users\slavi\OneDrive\Desktop\vp-project\Service\obj\Debug\Service.pdb
+C:\Users\slavi\OneDrive\Desktop\vp-project\Service\obj\Debug\Service.exe.config
