@@ -1,0 +1,76 @@
+[2025-09-18 14:09:36] INFO: Client started
+[2025-09-18 14:09:39] INFO: Session started for BMW_iX_xDrive50, ID: 4ea0f7c6-b6a8-429a-9c11-5ba610754046
+[2025-09-18 14:09:39] ERROR: Row 72: Invalid frequency values
+[2025-09-18 14:09:39] ERROR: Row 73: Invalid frequency values
+[2025-09-18 14:09:39] ERROR: Row 74: Invalid frequency values
+[2025-09-18 14:09:39] ERROR: Row 75: Invalid frequency values
+[2025-09-18 14:09:39] INFO: Transfer completed for BMW_iX_xDrive50: 71 success, 4 errors
+[2025-09-18 14:09:39] INFO: Session ended for BMW_iX_xDrive50: Session ended successfully. Processed 71 samples
+[2025-09-18 14:09:46] INFO: Session started for Ford_Mustang, ID: 3e85d1cc-826e-4a13-8c1b-8c5a576e9061
+[2025-09-18 14:09:46] ERROR: Row 256: Invalid frequency values
+[2025-09-18 14:09:46] ERROR: Row 257: Invalid frequency values
+[2025-09-18 14:09:46] ERROR: Row 258: Invalid frequency values
+[2025-09-18 14:09:46] ERROR: Row 259: Invalid frequency values
+[2025-09-18 14:09:46] INFO: Transfer completed for Ford_Mustang: 255 success, 4 errors
+[2025-09-18 14:09:46] INFO: Session ended for Ford_Mustang: Session ended successfully. Processed 255 samples
+[2025-09-18 14:09:50] INFO: Session started for Hyundai_Ioniq5, ID: b45adc81-61d2-4af3-b898-53478396d0b5
+[2025-09-18 14:09:50] ERROR: Row 76: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 77: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 78: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 79: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 80: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 81: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 82: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 83: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 84: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 85: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 86: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 87: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 88: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 89: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 90: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 91: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 92: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 93: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 94: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 95: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 96: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 97: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 98: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 99: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 100: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 101: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 102: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 103: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 104: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 105: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 106: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 107: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 108: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 109: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 110: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 111: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 112: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 113: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 114: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 115: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 116: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 117: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 118: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 119: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 120: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 121: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 122: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 123: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 124: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 125: Invalid frequency values
+[2025-09-18 14:09:50] ERROR: Row 126: Invalid frequency values
+[2025-09-18 14:09:51] ERROR: Row 127: Invalid frequency values
+[2025-09-18 14:09:51] ERROR: Row 128: Invalid frequency values
+[2025-09-18 14:09:51] ERROR: Row 129: Invalid frequency values
+[2025-09-18 14:09:51] ERROR: Row 130: Invalid frequency values
+[2025-09-18 14:09:51] ERROR: Row 131: Invalid frequency values
+[2025-09-18 14:09:51] ERROR: Row 132: Invalid frequency values
+[2025-09-18 14:09:51] ERROR: Row 133: Invalid frequency values
+[2025-09-18 14:09:51] INFO: Transfer completed for Hyundai_Ioniq5: 75 success, 58 errors
+[2025-09-18 14:09:51] INFO: Session ended for Hyundai_Ioniq5: Session ended successfully. Processed 75 samples

@@ -1,0 +1,234 @@
+[2025-09-18 13:53:10] INFO: Client started
+[2025-09-18 13:53:14] INFO: Session started for BMW_iX_xDrive50, ID: 8979275c-1b41-4f74-9d2f-73949b95f4fc
+[2025-09-18 13:53:15] ERROR: Row 72: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:15] ERROR: Row 73: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:15] ERROR: Row 74: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:15] ERROR: Row 75: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:15] INFO: Transfer completed for BMW_iX_xDrive50: 71 success, 4 errors
+[2025-09-18 13:53:15] INFO: Session ended for BMW_iX_xDrive50: Session ended successfully. Processed 71 samples
+[2025-09-18 13:53:20] INFO: Session started for Ford_Mustang, ID: 34341b30-49c0-4fe1-a74d-5b912b58cf2c
+[2025-09-18 13:53:24] ERROR: Row 256: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:24] ERROR: Row 257: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:24] ERROR: Row 258: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:24] ERROR: Row 259: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:24] INFO: Transfer completed for Ford_Mustang: 255 success, 4 errors
+[2025-09-18 13:53:24] INFO: Session ended for Ford_Mustang: Session ended successfully. Processed 255 samples
+[2025-09-18 13:53:30] INFO: Session started for Hyundai_Ioniq5, ID: cd5d452c-5ad5-4257-b3ce-45d40ad1b65b
+[2025-09-18 13:53:31] ERROR: Row 76: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 77: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 78: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 79: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 80: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 81: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 82: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 83: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 84: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 85: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 86: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 87: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 88: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 89: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 90: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 91: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 92: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 93: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 94: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 95: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 96: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 97: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 98: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 99: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 100: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 101: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 102: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 103: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 104: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 105: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 106: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 107: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 108: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 109: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 110: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 111: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 112: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 113: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 114: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 115: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 116: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 117: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 118: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 119: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 120: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 121: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 122: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 123: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 124: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 125: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 126: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 127: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 128: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 129: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 130: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 131: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 132: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] ERROR: Row 133: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:31] INFO: Transfer completed for Hyundai_Ioniq5: 75 success, 58 errors
+[2025-09-18 13:53:31] INFO: Session ended for Hyundai_Ioniq5: Session ended successfully. Processed 75 samples
+[2025-09-18 13:53:36] INFO: Session started for Hyundai_Ioniq_Electric, ID: b1159a73-a6c2-4163-8c29-95bec91d42eb
+[2025-09-18 13:53:38] ERROR: Row 106: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 107: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 108: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 109: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 110: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 111: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 112: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 113: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 114: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 115: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 116: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 117: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 118: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 119: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 120: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 121: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 122: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 123: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 124: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 125: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] ERROR: Row 126: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:38] INFO: Transfer completed for Hyundai_Ioniq_Electric: 105 success, 21 errors
+[2025-09-18 13:53:38] INFO: Session ended for Hyundai_Ioniq_Electric: Session ended successfully. Processed 105 samples
+[2025-09-18 13:53:47] INFO: Session started for Kia_Nero, ID: 42168eb1-a066-4722-82a9-07c8381774b3
+[2025-09-18 13:53:50] ERROR: Row 204: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 205: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 206: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 207: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 208: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 209: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 210: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 211: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 212: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 213: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 214: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 215: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 216: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 217: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 218: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 219: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 220: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 221: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 222: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 223: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 224: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 225: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 226: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 227: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 228: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 229: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 230: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 231: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 232: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 233: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 234: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 235: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 236: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 237: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] ERROR: Row 238: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:53:50] INFO: Transfer completed for Kia_Nero: 203 success, 35 errors
+[2025-09-18 13:53:50] INFO: Session ended for Kia_Nero: Session ended successfully. Processed 203 samples
+[2025-09-18 13:53:56] INFO: Session started for Lexus, ID: 48d584cc-1799-4c1b-80bc-e13a020ae085
+[2025-09-18 13:53:59] INFO: Transfer completed for Lexus: 171 success, 0 errors
+[2025-09-18 13:53:59] INFO: Session ended for Lexus: Session ended successfully. Processed 171 samples
+[2025-09-18 13:54:04] INFO: Session started for Mitsubishi_Outlander, ID: 0685109f-a3fa-44b6-a2b1-993d8ad997a6
+[2025-09-18 13:54:07] INFO: Transfer completed for Mitsubishi_Outlander: 167 success, 0 errors
+[2025-09-18 13:54:07] INFO: Session ended for Mitsubishi_Outlander: Session ended successfully. Processed 167 samples
+[2025-09-18 13:54:11] INFO: Session started for Nissan_Leaf, ID: 400e1a7b-959f-4a08-974f-ad957825bb54
+[2025-09-18 13:54:17] ERROR: Row 374: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 375: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 376: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 377: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 378: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 379: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 380: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 381: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 382: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 383: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 384: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 385: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 386: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 387: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 388: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 389: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 390: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 391: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 392: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 393: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 394: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 395: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 396: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 397: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 398: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 399: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 400: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 401: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 402: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 403: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 404: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 405: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 406: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 407: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 408: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 409: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 410: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 411: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 412: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 413: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 414: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 415: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 416: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 417: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 418: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 419: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 420: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 421: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 422: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 423: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 424: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] ERROR: Row 425: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:17] INFO: Transfer completed for Nissan_Leaf: 373 success, 52 errors
+[2025-09-18 13:54:17] INFO: Session ended for Nissan_Leaf: Session ended successfully. Processed 373 samples
+[2025-09-18 13:54:23] INFO: Session started for Tesla_Model3, ID: ca35ea4c-e1fe-4021-9293-64a40fefe174
+[2025-09-18 13:54:23] ERROR: Row 21: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:26] ERROR: Row 164: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:26] ERROR: Row 165: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:26] INFO: Transfer completed for Tesla_Model3: 162 success, 3 errors
+[2025-09-18 13:54:26] INFO: Session ended for Tesla_Model3: Session ended successfully. Processed 162 samples
+[2025-09-18 13:54:31] INFO: Session started for Tesla_ModelY, ID: 98e748c7-66d3-409f-a3b7-e316753dacac
+[2025-09-18 13:54:37] ERROR: Row 351: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 352: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 353: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 354: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 355: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 356: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 357: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 358: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 359: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 360: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 361: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] ERROR: Row 362: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:37] INFO: Transfer completed for Tesla_ModelY: 350 success, 12 errors
+[2025-09-18 13:54:37] INFO: Session ended for Tesla_ModelY: Session ended successfully. Processed 350 samples
+[2025-09-18 13:54:40] INFO: Session started for Toyota_Prius_Prime2021, ID: 1a2f1238-a165-4972-a818-8d0774d62a6b
+[2025-09-18 13:54:42] ERROR: Row 148: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:42] ERROR: Row 149: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:42] ERROR: Row 150: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:42] ERROR: Row 151: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:42] ERROR: Row 152: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:42] INFO: Transfer completed for Toyota_Prius_Prime2021: 147 success, 5 errors
+[2025-09-18 13:54:42] INFO: Session ended for Toyota_Prius_Prime2021: Session ended successfully. Processed 147 samples
+[2025-09-18 13:54:48] INFO: Session started for Volvo_XC40, ID: 61de66c8-fdaa-4062-b076-fd451adac3f7
+[2025-09-18 13:54:54] ERROR: Row 363: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:54] ERROR: Row 364: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:54:54] INFO: Transfer completed for Volvo_XC40: 362 success, 2 errors
+[2025-09-18 13:54:54] INFO: Session ended for Volvo_XC40: Session ended successfully. Processed 362 samples
+[2025-09-18 13:55:52] INFO: Client stopped

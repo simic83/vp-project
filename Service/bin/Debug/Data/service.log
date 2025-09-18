@@ -1,43 +1,32 @@
-[2025-09-17 21:04:53] Service started
-[2025-09-17 21:05:17] Service started
-[2025-09-17 21:05:40] Session started for vehicle Tesla_ModelS, ID: 72b345b3-4dd4-4384-b91d-cf8241d90fef
-[2025-09-17 21:05:46] Session ended for vehicle Tesla_ModelS, Total samples: 0
-[2025-09-17 21:07:32] Session started for vehicle VW_ID4, ID: 0031b878-f583-453d-8e14-372b48f404c7
-[2025-09-17 21:07:38] Session ended for vehicle VW_ID4, Total samples: 0
-[2025-09-17 21:16:31] Service started
-[2025-09-17 21:16:44] Session started for vehicle BMW_iX_xDrive50, ID: 9a1e8463-60e2-42a0-a64b-f78e17315704
-[2025-09-17 21:16:49] Session ended for vehicle BMW_iX_xDrive50, Total samples: 0
-[2025-09-17 21:25:08] Service started
-[2025-09-17 21:25:24] Service started
-[2025-09-17 21:25:43] Session started for vehicle BMW_iX_xDrive50, ID: 3e8b8dee-c9be-41a9-a8b0-f1da54571bb7
-[2025-09-17 21:25:48] Session ended for vehicle BMW_iX_xDrive50, Total samples: 0
-[2025-09-17 21:32:56] Service started
-[2025-09-17 21:33:05] Session started for vehicle BMW_iX_xDrive50, ID: b0897efa-fadc-4dac-aba0-5be6909339da
-[2025-09-17 21:33:11] Session ended for vehicle BMW_iX_xDrive50, Total samples: 0
-[2025-09-17 21:37:11] Service started
-[2025-09-17 21:37:19] Session started for vehicle BMW_iX_xDrive50, ID: d7d7659c-8957-461d-a787-f248e19ce249
-[2025-09-17 21:37:25] Session ended for vehicle BMW_iX_xDrive50, Total samples: 0
-[2025-09-17 21:38:29] Service started
-[2025-09-17 21:38:39] Session started for vehicle BMW_iX_xDrive50, ID: ca070ed9-cbe1-4867-aea0-bb1bf36cbc65
-[2025-09-17 21:38:44] Session ended for vehicle BMW_iX_xDrive50, Total samples: 0
-[2025-09-17 21:39:58] Service started
-[2025-09-17 21:40:06] Session started for vehicle Ford_Mustang, ID: f88a7a41-fb79-4a24-a6c6-708fbc358e8f
-[2025-09-17 21:40:06] Session ended for vehicle Ford_Mustang, Total samples: 0
-[2025-09-17 21:40:56] Service started
-[2025-09-17 21:41:05] Session started for vehicle Hyundai_Ioniq_Electric, ID: 81a6092b-84e4-489b-9112-28803a53a66d
-[2025-09-17 21:41:05] Session ended for vehicle Hyundai_Ioniq_Electric, Total samples: 0
-[2025-09-17 21:45:28] Service started
-[2025-09-17 21:45:34] Session started for vehicle BMW_iX_xDrive50, ID: 57372288-ee50-4924-b082-278c6ecec2b5
-[2025-09-17 21:45:34] Session ended for vehicle BMW_iX_xDrive50, Total samples: 0
-[2025-09-17 21:46:32] Service started
-[2025-09-17 21:46:40] Session started for vehicle BMW_iX_xDrive50, ID: f09b38b1-c0ef-4897-8970-3951e35fec17
-[2025-09-17 21:46:40] Session ended for vehicle BMW_iX_xDrive50, Total samples: 0
-[2025-09-17 21:51:28] Service started
-[2025-09-17 21:51:38] Session started for vehicle BMW_iX_xDrive50, ID: 9d141448-512b-4c7c-b972-632f7da29f78
-[2025-09-17 21:51:39] Session ended for vehicle BMW_iX_xDrive50, Total samples: 0
-[2025-09-17 21:55:56] Service started
-[2025-09-17 21:56:03] Session started for vehicle BMW_iX_xDrive50, ID: 4d69f2da-a6ed-4ecb-b15e-c044d2578e9c
-[2025-09-17 21:56:04] Session ended for vehicle BMW_iX_xDrive50, Total samples: 0
-[2025-09-17 22:09:07] Service started
-[2025-09-17 22:09:16] Session started for vehicle Ford_Mustang, ID: abaf6aa9-c599-4326-9370-caa6b614e4c2
-[2025-09-17 22:09:17] Session ended for vehicle Ford_Mustang, Total samples: 40
+[2025-09-18 13:53:07] Service started
+[2025-09-18 13:53:13] Session started for vehicle BMW_iX_xDrive50, ID: 8979275c-1b41-4f74-9d2f-73949b95f4fc
+[2025-09-18 13:53:15] Session ended for vehicle BMW_iX_xDrive50, Total samples: 71
+[2025-09-18 13:53:20] Session started for vehicle Ford_Mustang, ID: 34341b30-49c0-4fe1-a74d-5b912b58cf2c
+[2025-09-18 13:53:24] Session ended for vehicle Ford_Mustang, Total samples: 255
+[2025-09-18 13:53:30] Session started for vehicle Hyundai_Ioniq5, ID: cd5d452c-5ad5-4257-b3ce-45d40ad1b65b
+[2025-09-18 13:53:31] Session ended for vehicle Hyundai_Ioniq5, Total samples: 75
+[2025-09-18 13:53:36] Session started for vehicle Hyundai_Ioniq_Electric, ID: b1159a73-a6c2-4163-8c29-95bec91d42eb
+[2025-09-18 13:53:38] Session ended for vehicle Hyundai_Ioniq_Electric, Total samples: 105
+[2025-09-18 13:53:47] Session started for vehicle Kia_Nero, ID: 42168eb1-a066-4722-82a9-07c8381774b3
+[2025-09-18 13:53:50] Session ended for vehicle Kia_Nero, Total samples: 203
+[2025-09-18 13:53:56] Session started for vehicle Lexus, ID: 48d584cc-1799-4c1b-80bc-e13a020ae085
+[2025-09-18 13:53:59] Session ended for vehicle Lexus, Total samples: 171
+[2025-09-18 13:54:04] Session started for vehicle Mitsubishi_Outlander, ID: 0685109f-a3fa-44b6-a2b1-993d8ad997a6
+[2025-09-18 13:54:07] Session ended for vehicle Mitsubishi_Outlander, Total samples: 167
+[2025-09-18 13:54:11] Session started for vehicle Nissan_Leaf, ID: 400e1a7b-959f-4a08-974f-ad957825bb54
+[2025-09-18 13:54:17] Session ended for vehicle Nissan_Leaf, Total samples: 373
+[2025-09-18 13:54:23] Session started for vehicle Tesla_Model3, ID: ca35ea4c-e1fe-4021-9293-64a40fefe174
+[2025-09-18 13:54:26] Session ended for vehicle Tesla_Model3, Total samples: 162
+[2025-09-18 13:54:31] Session started for vehicle Tesla_ModelY, ID: 98e748c7-66d3-409f-a3b7-e316753dacac
+[2025-09-18 13:54:37] Session ended for vehicle Tesla_ModelY, Total samples: 350
+[2025-09-18 13:54:40] Session started for vehicle Toyota_Prius_Prime2021, ID: 1a2f1238-a165-4972-a818-8d0774d62a6b
+[2025-09-18 13:54:42] Session ended for vehicle Toyota_Prius_Prime2021, Total samples: 147
+[2025-09-18 13:54:48] Session started for vehicle Volvo_XC40, ID: 61de66c8-fdaa-4062-b076-fd451adac3f7
+[2025-09-18 13:54:54] Session ended for vehicle Volvo_XC40, Total samples: 362
+[2025-09-18 14:09:33] Service started
+[2025-09-18 14:09:39] Session started for vehicle BMW_iX_xDrive50, ID: 4ea0f7c6-b6a8-429a-9c11-5ba610754046
+[2025-09-18 14:09:39] Session ended for vehicle BMW_iX_xDrive50, Total samples: 71
+[2025-09-18 14:09:46] Session started for vehicle Ford_Mustang, ID: 3e85d1cc-826e-4a13-8c1b-8c5a576e9061
+[2025-09-18 14:09:46] Session ended for vehicle Ford_Mustang, Total samples: 255
+[2025-09-18 14:09:50] Session started for vehicle Hyundai_Ioniq5, ID: b45adc81-61d2-4af3-b898-53478396d0b5
+[2025-09-18 14:09:51] Session ended for vehicle Hyundai_Ioniq5, Total samples: 75

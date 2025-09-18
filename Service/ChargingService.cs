@@ -354,7 +354,9 @@ namespace Service
         private ValidationError ValidateSample(ChargingSample sample)
         {
             // Validacija timestamp-a
-            if (sample.Timestamp == DateTime.MinValue || sample.Timestamp > DateTime.Now)
+            if (sample.Timestamp == DateTime.MinValue ||
+        sample.Timestamp > DateTime.Now ||
+        sample.Timestamp.Year < 2020) // Primer dodatne provere
             {
                 return ValidationError.InvalidTimestamp;
             }
@@ -381,6 +383,12 @@ namespace Service
             if (sample.ApparentPowerAvg < 0 || sample.RealPowerAvg < 0)
             {
                 return ValidationError.InvalidPower;
+            }
+
+            // Proveri realne opsege
+            if (sample.VoltageRmsMax > 1000) // Primer: max 1000V
+            {
+                return ValidationError.InvalidVoltage;
             }
 
             return ValidationError.None;

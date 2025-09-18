@@ -1,0 +1,33 @@
+[2025-09-18 13:33:45] INFO: Client started
+[2025-09-18 13:33:49] INFO: Session started for BMW_iX_xDrive50, ID: 4933d9f9-e0bf-43af-a898-67d22d9663dc
+[2025-09-18 13:33:50] ERROR: Row 72: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:33:50] ERROR: Row 73: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:33:50] ERROR: Row 74: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:33:50] ERROR: Row 75: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:33:50] INFO: Transfer completed for BMW_iX_xDrive50: 71 success, 4 errors
+[2025-09-18 13:33:50] INFO: Session ended for BMW_iX_xDrive50: Session ended successfully. Processed 71 samples
+[2025-09-18 13:34:21] INFO: Session started for Ford_Mustang, ID: 48df754c-9358-45b5-b500-b4ad314a00a0
+[2025-09-18 13:34:26] ERROR: Row 256: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:26] ERROR: Row 257: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:26] ERROR: Row 258: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:26] ERROR: Row 259: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:26] INFO: Transfer completed for Ford_Mustang: 255 success, 4 errors
+[2025-09-18 13:34:26] INFO: Session ended for Ford_Mustang: Session ended successfully. Processed 255 samples
+[2025-09-18 13:34:38] INFO: Session started for Lexus, ID: 64e3a9bc-610c-4122-95e6-c1cec55006f7
+[2025-09-18 13:34:40] INFO: Transfer completed for Lexus: 171 success, 0 errors
+[2025-09-18 13:34:40] INFO: Session ended for Lexus: Session ended successfully. Processed 171 samples
+[2025-09-18 13:34:52] INFO: Session started for Tesla_ModelY, ID: e8f9682a-d198-4eb9-8f08-de3d9ea22df6
+[2025-09-18 13:34:58] ERROR: Row 351: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 352: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 353: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 354: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 355: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 356: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 357: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 358: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 359: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 360: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 361: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] ERROR: Row 362: Field 'FrequencyMin' is not a number: ''.
+[2025-09-18 13:34:58] INFO: Transfer completed for Tesla_ModelY: 350 success, 12 errors
+[2025-09-18 13:34:58] INFO: Session ended for Tesla_ModelY: Session ended successfully. Processed 350 samples

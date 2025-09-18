@@ -260,33 +260,25 @@ namespace Client
                     try
                     {
                         var sample = ParseCsvLine(line, rowIndex, vehicleId, sep);
-                        if (sample == null)
-                        {
-                            errorCount++;
-                            LogError($"Row {rowIndex}: Failed to parse CSV line");
-                            continue;
-                        }
-
+                        // Uvek šalje, čak i ako je sample možda neispravan
                         var result = proxy.PushSample(sample);
 
                         if (result.Success)
                         {
                             successCount++;
-                            Console.Write($"\rProcessed: {successCount} samples, Errors: {errorCount}");
                         }
                         else
                         {
                             errorCount++;
-                            LogError($"Row {rowIndex}: {result.Message} ({result.ValidationError})");
+                            LogError($"Row {rowIndex}: {result.Message}");
                         }
-
-                        // Malo kašnjenje (simulacija toka)
-                        Thread.Sleep(10);
                     }
                     catch (Exception ex)
                     {
+                        // Pokušaj slanja delimično parsiranog podatka
+                        // ili kreiraj "dummy" sample sa greškom
                         errorCount++;
-                        LogError($"Row {rowIndex}: {ex.Message}");
+                        LogError($"Row {rowIndex}: Parse error - {ex.Message}");
                     }
                 }
 
@@ -338,90 +330,89 @@ namespace Client
         // opciono 20. kolona = Index (ignorišemo, koristimo rowIndex)
         private static ChargingSample ParseCsvLine(string line, int rowIndex, string vehicleId, char sep)
         {
-            if (string.IsNullOrWhiteSpace(line)) return null;
-
-            var parts = line.Split(sep);
-            if (parts.Length < 19)
-                throw new FormatException($"Too few columns (got {parts.Length}, expected >= 19).");
-
-            // 0: Timestamp
-            if (!TryParseTimestamp(parts[0], out var ts))
-                throw new FormatException($"Invalid Timestamp value: '{parts[0]}'.");
-
-            // Parsiranje 18 double vrednosti, sa InvariantCulture (decimalna TAČKA!)
-            double Read(int i, string name)
-            {
-                if (!double.TryParse(parts[i].Trim(), NumberStyles.Float | NumberStyles.AllowThousands,
-                                     CultureInfo.InvariantCulture, out var v))
-                    throw new FormatException($"Field '{name}' is not a number: '{parts[i]}'.");
-                return v;
-            }
-
-            // Mapiranje prema zadatku:
-            // 1-3: Voltage RMS (Min, Avg, Max)
-            // 4-6: Current RMS (Min, Avg, Max)
-            // 7-9: Real Power (Min, Avg, Max)
-            // 10-12: Reactive Power (Min, Avg, Max)
-            // 13-15: Apparent Power (Min, Avg, Max)
-            // 16-18: Frequency (Min, Avg, Max)
-            var vMin = Read(1, "VoltageRmsMin");
-            var vAvg = Read(2, "VoltageRmsAvg");
-            var vMax = Read(3, "VoltageRmsMax");
-
-            var cMin = Read(4, "CurrentRmsMin");
-            var cAvg = Read(5, "CurrentRmsAvg");
-            var cMax = Read(6, "CurrentRmsMax");
-
-            var pRealMin = Read(7, "RealPowerMin");
-            var pRealAvg = Read(8, "RealPowerAvg");
-            var pRealMax = Read(9, "RealPowerMax");
-
-            var pReacMin = Read(10, "ReactivePowerMin");
-            var pReacAvg = Read(11, "ReactivePowerAvg");
-            var pReacMax = Read(12, "ReactivePowerMax");
-
-            var pAppMin = Read(13, "ApparentPowerMin");
-            var pAppAvg = Read(14, "ApparentPowerAvg");
-            var pAppMax = Read(15, "ApparentPowerMax");
-
-            var fMin = Read(16, "FrequencyMin");
-            var fAvg = Read(17, "FrequencyAvg");
-            var fMax = Read(18, "FrequencyMax");
-
-            // Ako postoji 20. kolona (Index) – možemo je ignorisati ili pročitati:
-            // int csvIndex = (parts.Length >= 20 && int.TryParse(parts[19].Trim(), out var idx)) ? idx : rowIndex;
-
-            return new ChargingSample
+            // Kreiraj prazan sample koji će uvek biti vraćen
+            var sample = new ChargingSample
             {
                 VehicleId = vehicleId,
-                Timestamp = ts,
-
-                VoltageRmsMin = vMin,
-                VoltageRmsAvg = vAvg,
-                VoltageRmsMax = vMax,
-
-                CurrentRmsMin = cMin,
-                CurrentRmsAvg = cAvg,
-                CurrentRmsMax = cMax,
-
-                RealPowerMin = pRealMin,
-                RealPowerAvg = pRealAvg,
-                RealPowerMax = pRealMax,
-
-                ReactivePowerMin = pReacMin,
-                ReactivePowerAvg = pReacAvg,
-                ReactivePowerMax = pReacMax,
-
-                ApparentPowerMin = pAppMin,
-                ApparentPowerAvg = pAppAvg,
-                ApparentPowerMax = pAppMax,
-
-                FrequencyMin = fMin,
-                FrequencyAvg = fAvg,
-                FrequencyMax = fMax,
-
-                RowIndex = rowIndex
+                RowIndex = rowIndex,
+                // Postavi default vrednosti koje će server prepoznati kao nevalidne
+                Timestamp = DateTime.MinValue,
+                VoltageRmsMin = 0,
+                VoltageRmsAvg = 0,
+                VoltageRmsMax = 0,
+                CurrentRmsMin = 0,
+                CurrentRmsAvg = 0,
+                CurrentRmsMax = 0,
+                RealPowerMin = 0,
+                RealPowerAvg = 0,
+                RealPowerMax = 0,
+                ReactivePowerMin = 0,
+                ReactivePowerAvg = 0,
+                ReactivePowerMax = 0,
+                ApparentPowerMin = 0,
+                ApparentPowerAvg = 0,
+                ApparentPowerMax = 0,
+                FrequencyMin = 0,
+                FrequencyAvg = 0,
+                FrequencyMax = 0
             };
+
+            // Ako je linija prazna, vrati sample sa default vrednostima
+            if (string.IsNullOrWhiteSpace(line))
+                return sample;
+
+            var parts = line.Split(sep);
+
+            // Ako nema dovoljno kolona, vrati sample sa default vrednostima
+            if (parts.Length < 19)
+                return sample;
+
+            // Pokušaj parsirati timestamp
+            if (parts.Length > 0 && TryParseTimestamp(parts[0], out var ts))
+                sample.Timestamp = ts;
+
+            // Pomoćna funkcija za sigurno parsiranje double vrednosti
+            double SafeParse(int index, double defaultValue = 0)
+            {
+                if (index < parts.Length)
+                {
+                    if (double.TryParse(parts[index].Trim(),
+                        NumberStyles.Float | NumberStyles.AllowThousands,
+                        CultureInfo.InvariantCulture, out var value))
+                    {
+                        return value;
+                    }
+                }
+                return defaultValue;
+            }
+
+            // Parsiraj sve vrednosti - ako ne uspe, ostaju default vrednosti
+            sample.VoltageRmsMin = SafeParse(1);
+            sample.VoltageRmsAvg = SafeParse(2);
+            sample.VoltageRmsMax = SafeParse(3);
+
+            sample.CurrentRmsMin = SafeParse(4);
+            sample.CurrentRmsAvg = SafeParse(5);
+            sample.CurrentRmsMax = SafeParse(6);
+
+            sample.RealPowerMin = SafeParse(7);
+            sample.RealPowerAvg = SafeParse(8);
+            sample.RealPowerMax = SafeParse(9);
+
+            sample.ReactivePowerMin = SafeParse(10);
+            sample.ReactivePowerAvg = SafeParse(11);
+            sample.ReactivePowerMax = SafeParse(12);
+
+            sample.ApparentPowerMin = SafeParse(13);
+            sample.ApparentPowerAvg = SafeParse(14);
+            sample.ApparentPowerMax = SafeParse(15);
+
+            sample.FrequencyMin = SafeParse(16);
+            sample.FrequencyAvg = SafeParse(17);
+            sample.FrequencyMax = SafeParse(18);
+
+            // Uvek vraća sample, nikad null ili exception
+            return sample;
         }
 
         private static bool TryParseTimestamp(string s, out DateTime ts)
